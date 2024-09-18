@@ -32,6 +32,19 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# HOCON source file
+*.conf linguist-detectable=true
+*.conf linguist-documentation=false
+*.conf linguist-language=HOCON
+*.fmt linguist-detectable=true
+*.fmt linguist-documentation=false
+*.fmt linguist-language=HOCON
+*.hocon linguist-detectable=true
+*.hocon linguist-documentation=false
+*.hocon linguist-language=HOCON
+*.scalafmt linguist-detectable=true
+*.scalafmt linguist-documentation=false
+*.scalafmt linguist-language=HOCON
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -161,10 +174,13 @@
 *.gif linguist-detectable=false
 *.gif linguist-documentation=false
 *.gif linguist-language=GIF
+
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2024, Tuesday, September 17th at 09:46 pm PST)
+# Line count (including blank lines and compiler line): 187
+
 # End of script
